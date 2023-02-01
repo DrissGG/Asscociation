@@ -15,7 +15,7 @@
     </nav>
 </header>
 <main>
-    <img src="newyork.jpg" alt="Image de New York">
+    <img src="images/newyork.jpg" alt="Image de New York">
 </main>
 <footer>
     <p>Contact: contact@example.com</p>

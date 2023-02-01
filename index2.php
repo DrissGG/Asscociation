@@ -10,7 +10,7 @@
 <body>
 <header>
     <nav class="navbar navbar-expand-lg navbar-dark bg-dark ">
-        <a class="navbar-brand" href="#">Générations Solidaires et Citoyennes</a>
+        <a class="navbar-brand margin-left-10 m1-1" href="#"><img class="w-25 h-25 rounded-circle-25" src="images/logo.jpg">GSC</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -31,7 +31,7 @@
 </header>
 
 <main class="container my-5">
-    <img src="newyork.jpg" class="img-fluid mx-auto d-block" alt="Image de New York">
+    <img src="images/newyork.jpg" class="img-fluid mx-auto d-block" alt="Image de New York">
 </main>
 
 <footer class="bg-dark text-white py-3">
