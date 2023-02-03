@@ -30,7 +30,7 @@
     </nav>
 </header>
 
-<main class="container my-5">
+<main class="container-{breakpoint}">
     <img src="images/newyork.jpg" class="img-fluid mx-auto d-block" alt="Image de New York">
 </main>
 
