@@ -106,6 +106,23 @@
         <span class="sr-only">Suivant</span>
     </a>
 </div>
+<div class="container my-5">
+    <h2 class="text-center">L'histoire de la France</h2>
+    <p>La France est un pays situé en Europe occidentale. Sa longue histoire remonte à plusieurs milliers d'années avant JC et a connu de nombreux changements et événements marquants tels que la Révolution française, la Deuxième Guerre mondiale et la formation de la Cinquième République. </p>
+
+    <div class="row">
+        <div class="col-md-6">
+            <img src="images/image1.jpg" class="img-fluid rounded mb-3" alt="Image 1">
+            <p>Image 1 : Château de Versailles, un symbole de l'histoire de la France.</p>
+        </div>
+
+        <div class="col-md-6">
+            <img src="images/image2.jpg" class="img-fluid rounded mb-3" alt="Image 2">
+            <p>Image 2 : Les arcs de triomphe à Paris, construits pour célébrer les victoires militaires françaises.</p>
+        </div>
+    </div>
+</div>
+
 
 <footer class="bg-light py-3" id="contact">
     <div class="container">
